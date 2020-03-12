@@ -1,0 +1,36 @@
+
+
+h1#letraencabezado{
+       color:pink
+    }
+
+    img{
+        max-width: 100%;
+    }
+
+.tamañoletra{
+    font-size: 1.5em;
+}
+
+.tamañoletramenupublico{
+    font-size: 1.2em;
+}
+
+.botonespublico{
+    margin-right: 0.5em;
+border-color: white;
+}
+.colorbordecampos{
+border-color: pink;
+}
+.colorletrablanca{
+    color:white; 
+}
+
+.fondopads{
+background-color:#fff0f1;
+}
+
+li{
+    list-style: none;
+}
