@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -130,7 +130,7 @@
 		Metodo de aspiración por aguna fina FNA
 		</h1>
 	   <p ALIGN="justify"> 
-El Dr. Wolberg de la universidad de Wisconsin y su equipo identificaron 30 características que se consideraron relevantes para el diagnóstico del cáncer de mama; seleccionando una pequeña muestra celular se captura con una cámara digital y junto con una placa de fotogramas como comúnmente se hace en el procedimiento de aspiración por aguja fina (FNA), las características son: Radio, Textura, Perímetro, Área, Suavidad, Compacidad, Concavidad, Puntos cóncavos, Simetría, Dimensión fractal, los primeros 10 campos son el promedio para cada una de las características, es decir la media aritmética de los núcleos celulares hallados en la muestra para cada uno de los casos, las siguientes 10 son el error o desviación estándar entre los datos, y finalmente el peor es el dato considerado más crítico entre los núcleos.</p>
+El Dr. Wolberg de la universidad de Wisconsin y su equipo identificaron 30 características que se consideraron relevantes para el diagnóstico del cáncer de mama; seleccionando una pequeña muestra celular se captura con una cámara digital y junto con una placa de fotogramas como comúnmente se hace en el procedimiento de aspiración por aguja fina , las características son: Radio, Textura, Perímetro, Área, Suavidad, Compacidad, Concavidad, Puntos cóncavos, Simetría, Dimensión fractal, los primeros 10 campos son el promedio para cada una de las características, es decir la media aritmética de los núcleos celulares hallados en la muestra para cada uno de los casos, las siguientes 10 son el error o desviación estándar entre los datos, y finalmente el peor es el dato considerado más crítico entre los núcleos.</p>
 	   
     </div>
     <div class="col-xs-12	col-sm-12	col-md-4	col-lg-4">
